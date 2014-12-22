@@ -35,9 +35,7 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A Letter written out of England
-to an English Gentleman remaining
-at Padua, containing a true Report
+
 #####Body#####
 SIR, I thanke you for
 your Relation of Ferrara;
