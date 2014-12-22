@@ -35,15 +35,9 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A Letter written out of England
-to an English Gentleman remaining
-at Padua, containing a true Report
+A letter vvritten out of England to an English gentleman remaining at Padua containing a true report
 #####Body#####
-SIR, I thanke you for
-your Relation of Ferrara;
-and to make you paiment
-in the like commodities,
-I r
+A letter vvritten out of England to an English gentleman remaining at Padua containing a true report
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
@@ -72,44 +66,38 @@ There are 14 **ommitted** fragments!
 |6.|__edition__|1||
 |7.|__editionStmt__|1||
 |8.|__editorialDecl__|1||
-|9.|__encodingDesc__|1||
-|10.|__extent__|2||
-|11.|__fileDesc__|1||
-|12.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), PROQUEST (1), VID (1)|
-|13.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
-|14.|__label__|5||
-|15.|__langUsage__|1||
-|16.|__language__|1| @__ident__ (1) : eng (1)|
-|17.|__listPrefixDef__|1||
-|18.|__note__|5||
-|19.|__notesStmt__|2||
-|20.|__p__|11||
-|21.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
-|22.|__profileDesc__|1||
-|23.|__projectDesc__|1||
-|24.|__pubPlace__|2||
-|25.|__publicationStmt__|2||
-|26.|__publisher__|2||
-|27.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
-|28.|__revisionDesc__|1||
-|29.|__seriesStmt__|1||
-|30.|__sourceDesc__|1||
-|31.|__term__|3||
-|32.|__textClass__|1||
-|33.|__title__|3||
-|34.|__titleStmt__|2||
+|9.|__extent__|2||
+|10.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), PROQUEST (1), VID (1)|
+|11.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
+|12.|__label__|5||
+|13.|__langUsage__|1||
+|14.|__language__|1| @__ident__ (1) : eng (1)|
+|15.|__listPrefixDef__|1||
+|16.|__note__|5||
+|17.|__notesStmt__|2||
+|18.|__p__|11||
+|19.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
+|20.|__projectDesc__|1||
+|21.|__pubPlace__|2||
+|22.|__publicationStmt__|2||
+|23.|__publisher__|2||
+|24.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
+|25.|__seriesStmt__|1||
+|26.|__sourceDesc__|1||
+|27.|__term__|3||
+|28.|__textClass__|1||
+|29.|__title__|3||
+|30.|__titleStmt__|2||
 
 
 ###Text Tag Usage###
 
 |No|element name|occ|attributes|
 |---|---|---|---|
-|1.|__body__|1||
-|2.|__desc__|14||
-|3.|__div__|2| @__type__ (2) : title_page (1), text (1)|
-|4.|__front__|1||
-|5.|__g__|96| @__ref__ (96) : char:EOLhyphen (96)|
-|6.|__gap__|14| @__reason__ (14) : illegible: under-inked (9), illegible: indecipherable (3), illegible: faint (2)  •  @__extent__ (14) : 2 letters (1), 1 letter (13)|
-|7.|__hi__|99||
-|8.|__p__|23||
-|9.|__pb__|16| @__facs__ (16) : tcp:1303:1 (2), tcp:1303:2 (2), tcp:1303:3 (2), tcp:1303:4 (2), tcp:1303:5 (2), tcp:1303:6 (2), tcp:1303:7 (2), tcp:1303:8 (2)  •  @__n__ (13) : 1 (1), 2 (1), 3 (1), 4 (1), 5 (1), 6 (1), 7 (1), 8 (1), 9 (1), 10 (1), 11 (1), 12 (1), 13 (1)|
+|1.|__desc__|14||
+|2.|__div__|2| @__type__ (2) : title_page (1), text (1)|
+|3.|__g__|96| @__ref__ (96) : char:EOLhyphen (96)|
+|4.|__gap__|14| @__reason__ (14) : illegible: under-inked (9), illegible: indecipherable (3), illegible: faint (2)  •  @__extent__ (14) : 2 letters (1), 1 letter (13)|
+|5.|__hi__|99||
+|6.|__p__|23||
+|7.|__pb__|16| @__facs__ (16) : tcp:1303:1 (2), tcp:1303:2 (2), tcp:1303:3 (2), tcp:1303:4 (2), tcp:1303:5 (2), tcp:1303:6 (2), tcp:1303:7 (2), tcp:1303:8 (2)  •  @__n__ (13) : 1 (1), 2 (1), 3 (1), 4 (1), 5 (1), 6 (1), 7 (1), 8 (1), 9 (1), 10 (1), 11 (1), 12 (1), 13 (1)|
