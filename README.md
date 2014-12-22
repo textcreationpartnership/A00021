@@ -35,9 +35,15 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A letter vvritten out of England to an English gentleman remaining at Padua containing a true report
+A Letter written out of England
+to an English Gentleman remaining
+at Padua, containing a true Report
 #####Body#####
-A letter vvritten out of England to an English gentleman remaining at Padua containing a true report
+SIR, I thanke you for
+your Relation of Ferrara;
+and to make you paiment
+in the like commodities,
+I r
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
